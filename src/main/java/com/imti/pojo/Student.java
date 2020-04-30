@@ -1,7 +1,7 @@
 package com.imti.pojo;
 
 public class Student {
-    private String name;
+    private String name;    //edit by Create-Project01
 
 	public String getName() {
 		return name;
